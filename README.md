@@ -1,5 +1,5 @@
-# RAG-based Document Question Answering System
-**Annervea AI Engineer Assignment**
+# Multi-Agent RAG System
+
 
 ## Overview
 
@@ -129,4 +129,3 @@ A Streamlit-based UI was experimented with during development but was excluded f
 
 ## Author
 ### Asra Anjum
-### AI Engineer Assignment – Annervea
